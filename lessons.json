@@ -1,0 +1,21 @@
+{
+  "recurring": [
+    {
+      "id": "ba87aac6",
+      "weekday": 2,
+      "hour": 20,
+      "minute": 0,
+      "name": "韓文課"
+    }
+  ],
+  "one_time": [],
+  "modifications": [],
+  "targets": [
+    {
+      "id": 419839266630402048,
+      "name": "K.M.H.L"
+    }
+  ],
+  "channel_id": 955839055365570674,
+  "reminder_minutes": 1
+}
